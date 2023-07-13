@@ -1,0 +1,21 @@
+{
+  "status": "done",
+  "assets": {
+    "frontend-ff5d1fbdc01d08efefbd.js": {
+      "name": "frontend-ff5d1fbdc01d08efefbd.js",
+      "path": "/Users/olegremeskevic/PycharmProject/app-recipes/django_react_starter/frontend/static/frontend/frontend-ff5d1fbdc01d08efefbd.js",
+      "publicPath": "static/frontend/frontend-ff5d1fbdc01d08efefbd.js"
+    },
+    "frontend-ff5d1fbdc01d08efefbd.js.LICENSE.txt": {
+      "name": "frontend-ff5d1fbdc01d08efefbd.js.LICENSE.txt",
+      "path": "/Users/olegremeskevic/PycharmProject/app-recipes/django_react_starter/frontend/static/frontend/frontend-ff5d1fbdc01d08efefbd.js.LICENSE.txt",
+      "publicPath": "static/frontend/frontend-ff5d1fbdc01d08efefbd.js.LICENSE.txt"
+    }
+  },
+  "chunks": {
+    "frontend": [
+      "frontend-ff5d1fbdc01d08efefbd.js"
+    ]
+  },
+  "publicPath": "static/frontend/"
+}

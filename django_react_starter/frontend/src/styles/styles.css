@@ -1,0 +1,26 @@
+.salat {
+    float: left;
+    text-align: center;
+    margin-top: 30px;
+    padding-right: 0px;
+}
+.cocktail {
+    float:right;
+    text-align: center;
+    margin-top: 30px;
+}
+.pasta {
+    float: right;
+    margin: 30px;
+    text-align: center;
+}
+img {
+    width: 400px;
+    height: 300px;
+}
+
+body {
+    background: url(https://phonoteka.org/uploads/posts/2021-05/1621006874_25-phonoteka_org-p-fon-dlya-prezentatsii-svetlii-s-produktami-31.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
